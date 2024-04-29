@@ -10,3 +10,5 @@ Weather app that displays:
 uses openweatherapi 
 
 Background Image from: https://twitter.com/NodeMinimal/media 
+
+![example](/screenshot.png)
